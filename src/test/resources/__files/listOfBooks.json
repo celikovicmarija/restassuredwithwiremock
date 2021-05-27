@@ -1,0 +1,18 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "author": "Alan Richardson",
+      "bookTitle": "Java For Testers"
+    },
+    {
+      "id": "2",
+      "author": "Alan Richardson",
+      "bookTitle": "Automating & Testing a REST API"
+    },{
+      "id": "3",
+      "author": "Robert Cecil Martin",
+      "bookTitle": "Clean Code"
+    }
+  ]
+}
